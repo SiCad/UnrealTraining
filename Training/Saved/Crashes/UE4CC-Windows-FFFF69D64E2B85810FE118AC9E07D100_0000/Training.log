@@ -1,0 +1,1000 @@
+﻿Log file open, 07/19/18 08:54:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Training
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.674353
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.315s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.25.0
+LogInit: Build: ++UE4+Release-4.20-CL-4212847
+LogInit: Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 7 1800X Eight-Core Processor         , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jul 14 2018 09:51:14
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.19-12.54.27:235][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.19-12.54.27:236][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.19-12.54.27:250][  0]LogHAL: Display: Platform has ~ 16 GB [17109934080 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.07.19-12.54.27:250][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.07.19-12.54.27:251][  0]LogInit: Going up to parent DeviceProfile []
+[2018.07.19-12.54.27:253][  0]LogInit: Computer: PC066-GSQ
+[2018.07.19-12.54.27:253][  0]LogInit: User: gsqscadieux
+[2018.07.19-12.54.27:253][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.07.19-12.54.27:253][  0]LogInit: High frequency timer resolution =3.509029 MHz
+[2018.07.19-12.54.27:254][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.07.19-12.54.27:254][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.19-12.54.27:254][  0]LogMemory: Process Physical Memory: 105.80 MB used, 105.80 MB peak
+[2018.07.19-12.54.27:254][  0]LogMemory: Process Virtual Memory: 94.56 MB used, 94.56 MB peak
+[2018.07.19-12.54.27:254][  0]LogMemory: Physical Memory: 12508.17 MB used,  3809.14 MB free, 16317.30 MB total
+[2018.07.19-12.54.27:254][  0]LogMemory: Virtual Memory: 594.13 MB used,  3809.14 MB free, 134217728.00 MB total
+[2018.07.19-12.54.27:391][  0]LogInit: Using OS detected language (en-US).
+[2018.07.19-12.54.27:391][  0]LogInit: Using OS detected locale (fr-CA).
+[2018.07.19-12.54.27:392][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.19-12.54.27:795][  0]LogStreaming: Display: Took  0.404s to InitEngineTextLocalization.
+[2018.07.19-12.54.27:795][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.19-12.54.27:851][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.19-12.54.27:851][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.19-12.54.28:297][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.07.19-12.54.28:297][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.19-12.54.28:400][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2018.07.19-12.54.28:400][  0]LogD3D11RHI:       8088/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.07.19-12.54.28:403][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.19-12.54.28:403][  0]LogD3D11RHI:       0/0/8158 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.19-12.54.28:403][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.19-12.54.28:417][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.19-12.54.28:417][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.19-12.54.28:417][  0]LogWindows: EnumDisplayDevices:
+[2018.07.19-12.54.28:418][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2018.07.19-12.54.28:418][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2018.07.19-12.54.28:418][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.07.19-12.54.28:419][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2018.07.19-12.54.28:419][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.07.19-12.54.28:419][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2018.07.19-12.54.28:419][  0]LogD3D11RHI:   Driver Version: 398.36 (internal:24.21.13.9836, unified:398.36)
+[2018.07.19-12.54.28:419][  0]LogD3D11RHI:      Driver Date: 6-24-2018
+[2018.07.19-12.54.28:419][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2018.07.19-12.54.28:485][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.19-12.54.28:534][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.19-12.54.28:578][  0]LogD3D11RHI: HDR output is supported on display 0 (NvId: 0x80061086).
+[2018.07.19-12.54.28:578][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Intermediate/Shaders/WorkingDirectory/12780/).
+[2018.07.19-12.54.28:579][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/gsq_scadieux/AppData/Local/Temp/UnrealShaderWorkingDir/C8912B6D4A51C0E2D01DA8A91648BEC3/'.
+[2018.07.19-12.54.29:271][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.19-12.54.29:294][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.19-12.54.29:318][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.19-12.54.29:341][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.19-12.54.29:367][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.19-12.54.29:391][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.19-12.54.29:415][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.19-12.54.29:439][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.19-12.54.29:455][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:563][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.19-12.54.29:572][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.19-12.54.29:666][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.19-12.54.29:666][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.19-12.54.29:702][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.19-12.54.29:702][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.19-12.54.29:725][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.19-12.54.29:748][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.19-12.54.29:770][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.19-12.54.29:797][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.19-12.54.29:816][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.07.19-12.54.29:816][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.19-12.54.30:124][  0]LogXGEController: Cleaning working directory: C:/Users/gsq_scadieux/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.19-12.54.30:124][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.19-12.54.30:124][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.19-12.54.30:124][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.19-12.54.31:116][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.19-12.54.31:116][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2018.07.19-12.54.31:116][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.19-12.54.31:116][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.19-12.54.31:116][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.19-12.54.31:116][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.19-12.54.31:131][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.19-12.54.31:145][  0]LogDerivedDataCache: Using Local data cache path C:/Users/gsq_scadieux/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.19-12.54.31:145][  0]LogDerivedDataCache: Found environment variable UE-SharedDataCachePath=W:/Oak/DDC
+[2018.07.19-12.54.31:166][  0]LogDerivedDataCache: Using Shared data cache path W:/Oak/DDC: Writable
+[2018.07.19-12.54.31:210][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.19-12.54.31:212][  0]LogSlate: Using FreeType 2.6.0
+[2018.07.19-12.54.31:214][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.19-12.54.31:365][  0]LogAssetRegistry: FAssetRegistry took 0.0271 seconds to start up
+[2018.07.19-12.54.31:813][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.19-12.54.32:113][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.19-12.54.32:159][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.19-12.54.32:159][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.07.19-12.54.32:159][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.19-12.54.32:159][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.19-12.54.32:213][  0]LogNetVersion: Training 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 141366354)
+[2018.07.19-12.54.33:958][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.243641 seconds
+[2018.07.19-12.54.33:971][  0]LogUObjectArray: 38447 objects as part of root set at end of initial load.
+[2018.07.19-12.54.33:971][  0]LogUObjectAllocator: 6692632 out of 0 bytes used by permanent object pool.
+[2018.07.19-12.54.33:971][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.19-12.54.36:248][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.19-12.54.36:289][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.19-12.54.36:988][  0]SourceControl: Source control is disabled
+[2018.07.19-12.54.36:988][  0]SourceControl: Source control is disabled
+[2018.07.19-12.54.37:106][  0]SourceControl: Source control is disabled
+[2018.07.19-12.54.37:119][  0]SourceControl: Source control is disabled
+[2018.07.19-12.54.37:801][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.19-12.54.37:946][  0]LogOcInput: OculusInput pre-init called
+[2018.07.19-12.54.38:066][  0]LogEngine: Initializing Engine...
+[2018.07.19-12.54.38:068][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.07.19-12.54.38:070][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.07.19-12.54.38:070][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.19-12.54.38:070][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.07.19-12.54.38:070][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.19-12.54.38:476][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.07.19-12.54.38:519][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.19-12.54.38:591][  0]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adaptor)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.19-12.54.38:611][  0]LogInit: FAudioDevice initialized.
+[2018.07.19-12.54.38:611][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.07.19-12.54.38:677][  0]LogDerivedDataCache: Saved boot cache 0.07s 87MB C:/Users/gsq_scadieux/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.07.19-12.54.38:686][  0]LogInit: Texture streaming: Enabled
+[2018.07.19-12.54.38:745][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.19-12.54.38:776][  0]LogInit: Transaction tracking system initialized
+[2018.07.19-12.54.38:863][  0]BlueprintLog: New page: Editor Load
+[2018.07.19-12.54.39:262][  0]LocalizationService: Localization service is disabled
+[2018.07.19-12.54.39:802][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.19-12.54.39:802][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.19-12.54.39:802][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.19-12.54.39:802][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.07.19-12.54.39:803][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.19-12.54.39:803][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.07.19-12.54.39:803][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.19-12.54.39:888][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/' took 0.02s
+[2018.07.19-12.54.40:411][  0]SourceControl: Source control is disabled
+[2018.07.19-12.54.40:414][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.20/FeaturePacks/StarterContent.upack)
+[2018.07.19-12.54.40:423][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.07.19-12.54.40:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.07.19-12.54.40:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.07.19-12.54.40:436][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.07.19-12.54.40:441][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.07.19-12.54.40:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.07.19-12.54.40:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.07.19-12.54.40:452][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.07.19-12.54.40:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.07.19-12.54.40:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.07.19-12.54.40:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.07.19-12.54.40:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.07.19-12.54.40:471][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.07.19-12.54.40:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.07.19-12.54.40:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.07.19-12.54.40:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.07.19-12.54.40:490][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.07.19-12.54.40:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.07.19-12.54.40:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Fire01.uasset"
+[2018.07.19-12.54.40:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.07.19-12.54.40:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.07.19-12.54.40:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.07.19-12.54.40:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Light01.uasset"
+[2018.07.19-12.54.40:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.07.19-12.54.40:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Light02.uasset"
+[2018.07.19-12.54.40:528][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.07.19-12.54.40:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.07.19-12.54.40:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.07.19-12.54.40:540][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.07.19-12.54.40:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.07.19-12.54.40:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.07.19-12.54.40:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.07.19-12.54.40:579][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.07.19-12.54.40:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.07.19-12.54.40:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Steam01.uasset"
+[2018.07.19-12.54.40:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.07.19-12.54.40:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.07.19-12.54.40:604][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.07.19-12.54.40:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.07.19-12.54.40:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.07.19-12.54.40:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.07.19-12.54.40:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.07.19-12.54.40:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.07.19-12.54.40:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.07.19-12.54.40:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.07.19-12.54.40:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.07.19-12.54.40:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.07.19-12.54.40:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.07.19-12.54.40:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.07.19-12.54.40:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.07.19-12.54.40:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.07.19-12.54.40:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.07.19-12.54.40:664][  0]LogPackFactory: Error: Unable to copy file "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset".
+[2018.07.19-12.54.40:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.07.19-12.54.40:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.07.19-12.54.40:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.07.19-12.54.40:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.07.19-12.54.40:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Maps/StarterMap.umap"
+[2018.07.19-12.54.40:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.07.19-12.54.40:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.07.19-12.54.40:748][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.07.19-12.54.40:753][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.07.19-12.54.40:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.07.19-12.54.40:767][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.07.19-12.54.40:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.07.19-12.54.40:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.07.19-12.54.40:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.07.19-12.54.40:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.07.19-12.54.40:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.07.19-12.54.40:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.07.19-12.54.40:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.07.19-12.54.40:809][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.07.19-12.54.40:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.07.19-12.54.40:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.07.19-12.54.40:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.07.19-12.54.40:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.07.19-12.54.40:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.07.19-12.54.40:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.07.19-12.54.40:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.07.19-12.54.40:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.07.19-12.54.40:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.07.19-12.54.40:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.07.19-12.54.40:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.07.19-12.54.40:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.07.19-12.54.40:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.07.19-12.54.40:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.07.19-12.54.40:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.07.19-12.54.40:881][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.07.19-12.54.40:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.07.19-12.54.40:889][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.07.19-12.54.40:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.07.19-12.54.40:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.07.19-12.54.40:901][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.07.19-12.54.40:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.07.19-12.54.40:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.07.19-12.54.40:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.07.19-12.54.40:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.07.19-12.54.40:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.07.19-12.54.40:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.07.19-12.54.40:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.07.19-12.54.40:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.07.19-12.54.40:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.07.19-12.54.40:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.07.19-12.54.40:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.07.19-12.54.40:952][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.07.19-12.54.40:956][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.07.19-12.54.40:960][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.07.19-12.54.40:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.07.19-12.54.40:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.07.19-12.54.40:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.07.19-12.54.40:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.07.19-12.54.40:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.07.19-12.54.40:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.07.19-12.54.40:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.07.19-12.54.40:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.07.19-12.54.40:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.07.19-12.54.41:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.07.19-12.54.41:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.07.19-12.54.41:008][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.07.19-12.54.41:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.07.19-12.54.41:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.07.19-12.54.41:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.07.19-12.54.41:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.07.19-12.54.41:028][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_Door.uasset"
+[2018.07.19-12.54.41:032][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.07.19-12.54.41:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.07.19-12.54.41:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.07.19-12.54.41:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.07.19-12.54.41:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.07.19-12.54.41:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.07.19-12.54.41:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.07.19-12.54.41:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.07.19-12.54.41:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.07.19-12.54.41:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.07.19-12.54.41:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.07.19-12.54.41:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.07.19-12.54.41:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.07.19-12.54.41:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.07.19-12.54.41:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.07.19-12.54.41:094][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.07.19-12.54.41:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.07.19-12.54.41:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.07.19-12.54.41:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.07.19-12.54.41:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.07.19-12.54.41:114][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.07.19-12.54.41:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.07.19-12.54.41:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.07.19-12.54.41:126][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.07.19-12.54.41:130][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.07.19-12.54.41:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.07.19-12.54.41:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.07.19-12.54.41:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.07.19-12.54.41:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.07.19-12.54.41:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.07.19-12.54.41:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.07.19-12.54.41:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.07.19-12.54.41:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.07.19-12.54.41:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.07.19-12.54.41:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.07.19-12.54.41:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.07.19-12.54.41:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.07.19-12.54.41:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.07.19-12.54.41:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.07.19-12.54.41:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.07.19-12.54.41:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.07.19-12.54.41:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.07.19-12.54.41:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.07.19-12.54.41:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.07.19-12.54.41:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.07.19-12.54.41:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.07.19-12.54.41:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.07.19-12.54.41:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.07.19-12.54.41:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.07.19-12.54.41:305][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.07.19-12.54.41:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.07.19-12.54.41:343][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.07.19-12.54.41:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.07.19-12.54.41:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.07.19-12.54.41:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.07.19-12.54.41:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.07.19-12.54.41:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.07.19-12.54.41:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.07.19-12.54.41:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.07.19-12.54.41:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.07.19-12.54.41:460][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.07.19-12.54.41:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.07.19-12.54.41:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.07.19-12.54.41:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.07.19-12.54.41:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.07.19-12.54.41:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.07.19-12.54.41:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.07.19-12.54.41:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.07.19-12.54.41:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.07.19-12.54.41:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.07.19-12.54.41:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.07.19-12.54.41:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.07.19-12.54.41:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.07.19-12.54.41:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.07.19-12.54.41:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.07.19-12.54.41:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.07.19-12.54.41:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.07.19-12.54.41:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.07.19-12.54.41:693][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.07.19-12.54.41:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.07.19-12.54.41:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.07.19-12.54.41:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.07.19-12.54.41:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.07.19-12.54.41:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.07.19-12.54.41:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.07.19-12.54.41:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.07.19-12.54.41:763][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.07.19-12.54.41:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.07.19-12.54.41:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.07.19-12.54.41:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.07.19-12.54.41:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.07.19-12.54.41:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.07.19-12.54.41:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.07.19-12.54.41:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.07.19-12.54.41:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.07.19-12.54.41:867][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.07.19-12.54.41:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.07.19-12.54.41:908][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.07.19-12.54.41:914][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.07.19-12.54.41:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.07.19-12.54.41:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.07.19-12.54.41:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.07.19-12.54.41:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.07.19-12.54.41:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.07.19-12.54.42:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.07.19-12.54.42:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.07.19-12.54.42:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.07.19-12.54.42:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.07.19-12.54.42:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.07.19-12.54.42:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.07.19-12.54.42:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.07.19-12.54.42:247][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.07.19-12.54.42:438][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.07.19-12.54.42:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.07.19-12.54.42:470][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.07.19-12.54.42:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.07.19-12.54.42:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.07.19-12.54.42:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.07.19-12.54.42:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.07.19-12.54.42:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.07.19-12.54.42:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.07.19-12.54.42:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.07.19-12.54.42:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.07.19-12.54.42:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.07.19-12.54.42:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.07.19-12.54.42:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.07.19-12.54.42:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.07.19-12.54.42:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.07.19-12.54.42:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.07.19-12.54.42:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.07.19-12.54.42:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.07.19-12.54.42:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.07.19-12.54.42:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.07.19-12.54.42:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.07.19-12.54.42:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.07.19-12.54.42:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.07.19-12.54.42:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.07.19-12.54.42:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.07.19-12.54.42:681][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.07.19-12.54.42:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.07.19-12.54.42:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.07.19-12.54.42:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.07.19-12.54.42:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.07.19-12.54.42:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.07.19-12.54.42:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.07.19-12.54.42:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.07.19-12.54.42:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.07.19-12.54.42:799][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2018.07.19-12.54.42:803][  0]LogStaticMesh: Built static mesh [0.01s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2018.07.19-12.54.42:849][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.07.19-12.54.42:958][  0]LogSavePackage: Moving '../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Saved/Floor_400x40079E3105B41B567FC3FB611A7A9A3CD53.tmp' to '../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.07.19-12.54.42:971][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.07.19-12.54.42:975][  0]Cmd: MAP LOAD FILE="../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.19-12.54.42:976][  0]LightingResults: New page: Lighting Build
+[2018.07.19-12.54.42:980][  0]MapCheck: New page: Map Check
+[2018.07.19-12.54.42:980][  0]LightingResults: New page: Lighting Build
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 64X64)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 64X64)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: SkyOcclusion0_5 (AutoDXT, 64X32)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 2048X1024)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 2048X1024)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 2048X1024)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 2048X1024)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 2048X1024)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 2048X1024)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 2048X2048)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 2048X2048)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 2048X2048)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 2048X2048)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 2048X2048)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 2048X2048)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 2048X2048)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 2048X2048)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 2048X1024)
+[2018.07.19-12.54.44:976][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 2048X1024)
+[2018.07.19-12.54.44:977][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 2048X1024)
+[2018.07.19-12.54.44:977][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 2048X1024)
+[2018.07.19-12.54.44:977][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 2048X1024)
+[2018.07.19-12.54.44:977][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 64X32)
+[2018.07.19-12.54.45:530][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.19-12.54.45:568][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.19-12.54.45:608][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.19-12.54.45:759][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 150,578ms to complete.
+[2018.07.19-12.54.45:760][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.785
+[2018.07.19-12.54.45:940][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-12.54.45:948][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-12.54.45:955][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-12.54.45:962][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-12.54.45:988][  0]LogCollectionManager: Loaded 0 collections in 0.002012 seconds
+[2018.07.19-12.54.46:052][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gsq_scadieux/Documents/UnrealTraining/Training/Saved/Collections/' took 0.01s
+[2018.07.19-12.54.46:052][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/Developers/gsqscadieux/Collections/' took 0.01s
+[2018.07.19-12.54.46:052][  0]LogFileCache: Scanning file cache for directory 'C:/Users/gsq_scadieux/Documents/UnrealTraining/Training/Content/Collections/' took 0.01s
+[2018.07.19-12.54.46:052][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.19-12.54.46:065][  0]LogContentBrowser: Native class hierarchy populated in 0.0113 seconds. Added 2572 classes and 603 folders.
+[2018.07.19-12.54.46:078][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.19-12.54.46:212][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.19-12.54.46:235][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.07.19-12.54.46:303][  0]LogSlate: Took 0.001148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.19-12.54.46:307][  0]LogSlate: Took 0.000928 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.19-12.54.46:315][  0]LogSlate: Took 0.001014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.19-12.54.46:390][  0]LogRenderer: Reallocating scene render targets to support 1616x812 Format 10 NumSamples 1 (Frame:1).
+[2018.07.19-12.54.46:766][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-12.54.46:786][  0]LogSlate: Window 'Tutorials' being destroyed
+[2018.07.19-12.54.46:913][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.07.19-12.54.46:913][  0]LogLoad: (Engine Initialization) Total time: 24.42 seconds
+[2018.07.19-12.54.46:913][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.19-12.54.47:102][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.07.19-12.54.47:149][  1]LogAssetRegistry: Asset discovery search completed in 15.8063 seconds
+[2018.07.19-12.54.47:151][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.19-12.54.47:151][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2018.07.19-12.55.02:686][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-12.55.04:571][543]LogSlate: Window 'Tutorials' being destroyed
+[2018.07.19-12.55.06:692][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.19-12.55.07:719][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-21.52.35:474][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2018.07.19-21.52.53:773][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-21.52.54:012][508]LogRenderer: Reallocating scene render targets to support 1616x824 Format 10 NumSamples 1 (Frame:5881).
+[2018.07.19-21.52.54:055][509]LogRenderer: Reallocating scene render targets to support 1616x836 Format 10 NumSamples 1 (Frame:5883).
+[2018.07.19-21.52.54:101][510]LogRenderer: Reallocating scene render targets to support 1616x844 Format 10 NumSamples 1 (Frame:5885).
+[2018.07.19-21.52.54:142][511]LogRenderer: Reallocating scene render targets to support 1616x852 Format 10 NumSamples 1 (Frame:5887).
+[2018.07.19-21.52.54:185][512]LogRenderer: Reallocating scene render targets to support 1616x864 Format 10 NumSamples 1 (Frame:5889).
+[2018.07.19-21.52.54:226][513]LogRenderer: Reallocating scene render targets to support 1616x872 Format 10 NumSamples 1 (Frame:5891).
+[2018.07.19-21.52.54:269][514]LogRenderer: Reallocating scene render targets to support 1616x884 Format 10 NumSamples 1 (Frame:5893).
+[2018.07.19-21.52.54:311][515]LogRenderer: Reallocating scene render targets to support 1616x896 Format 10 NumSamples 1 (Frame:5895).
+[2018.07.19-21.52.54:357][516]LogRenderer: Reallocating scene render targets to support 1616x916 Format 10 NumSamples 1 (Frame:5897).
+[2018.07.19-21.52.54:403][517]LogRenderer: Reallocating scene render targets to support 1616x940 Format 10 NumSamples 1 (Frame:5899).
+[2018.07.19-21.52.54:447][518]LogRenderer: Reallocating scene render targets to support 1616x964 Format 10 NumSamples 1 (Frame:5901).
+[2018.07.19-21.52.54:491][519]LogRenderer: Reallocating scene render targets to support 1616x980 Format 10 NumSamples 1 (Frame:5903).
+[2018.07.19-21.52.54:533][520]LogRenderer: Reallocating scene render targets to support 1616x996 Format 10 NumSamples 1 (Frame:5905).
+[2018.07.19-21.52.54:577][521]LogRenderer: Reallocating scene render targets to support 1616x1024 Format 10 NumSamples 1 (Frame:5907).
+[2018.07.19-21.52.54:619][522]LogRenderer: Reallocating scene render targets to support 1616x1064 Format 10 NumSamples 1 (Frame:5909).
+[2018.07.19-21.52.54:663][523]LogRenderer: Reallocating scene render targets to support 1616x1080 Format 10 NumSamples 1 (Frame:5911).
+[2018.07.19-21.52.57:773][865]LogRenderer: Reallocating scene render targets to support 1624x1080 Format 10 NumSamples 1 (Frame:6209).
+[2018.07.19-21.52.57:823][866]LogRenderer: Reallocating scene render targets to support 1640x1080 Format 10 NumSamples 1 (Frame:6211).
+[2018.07.19-21.52.57:874][867]LogRenderer: Reallocating scene render targets to support 1660x1080 Format 10 NumSamples 1 (Frame:6213).
+[2018.07.19-21.52.57:916][868]LogRenderer: Reallocating scene render targets to support 1684x1080 Format 10 NumSamples 1 (Frame:6215).
+[2018.07.19-21.52.57:967][869]LogRenderer: Reallocating scene render targets to support 1700x1080 Format 10 NumSamples 1 (Frame:6217).
+[2018.07.19-21.52.58:012][870]LogRenderer: Reallocating scene render targets to support 1716x1080 Format 10 NumSamples 1 (Frame:6219).
+[2018.07.19-21.52.58:054][871]LogRenderer: Reallocating scene render targets to support 1724x1080 Format 10 NumSamples 1 (Frame:6221).
+[2018.07.19-21.52.58:097][872]LogRenderer: Reallocating scene render targets to support 1740x1080 Format 10 NumSamples 1 (Frame:6223).
+[2018.07.19-21.52.58:141][873]LogRenderer: Reallocating scene render targets to support 1744x1080 Format 10 NumSamples 1 (Frame:6225).
+[2018.07.19-21.52.58:252][883]LogRenderer: Reallocating scene render targets to support 1748x1080 Format 10 NumSamples 1 (Frame:6227).
+[2018.07.19-21.52.58:329][885]LogRenderer: Reallocating scene render targets to support 1752x1080 Format 10 NumSamples 1 (Frame:6231).
+[2018.07.19-21.52.58:412][887]LogRenderer: Reallocating scene render targets to support 1756x1080 Format 10 NumSamples 1 (Frame:6235).
+[2018.07.19-21.52.58:566][898]LogRenderer: Reallocating scene render targets to support 1760x1080 Format 10 NumSamples 1 (Frame:6239).
+[2018.07.19-21.53.16:388][915]Cmd: TRANSACTION UNDO
+[2018.07.19-21.53.16:388][915]LogEditorTransaction: Undo Move Actors
+[2018.07.19-21.53.16:430][915]LogSlate: Took 0.001335 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.19-21.53.34:672][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-21.53.34:755][996]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.19-21.53.34:771][996]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-21.53.34:772][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.19-21.53.34:794][996]PIE: New page: PIE session: FirstPersonExampleMap (2018-07-19 13:53:34)
+[2018.07.19-21.53.34:795][996]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.19-21.53.34:822][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026454s)
+[2018.07.19-21.53.34:827][996]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.19-21.53.34:830][996]LogPlayLevel: PIE: World Init took: (0.008014s)
+[2018.07.19-21.53.34:830][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.035273s)
+[2018.07.19-21.53.34:922][996]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adaptor)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.19-21.53.34:936][996]LogInit: FAudioDevice initialized.
+[2018.07.19-21.53.34:982][996]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.19-21.53.34:995][996]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.07.19-17.53.34
+[2018.07.19-21.53.34:997][996]LogWorld: Bringing up level for play took: 0.009904
+[2018.07.19-21.53.35:030][996]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0015 seconds. Added 10 classes and 0 folders.
+[2018.07.19-21.53.35:033][996]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,46
+[2018.07.19-21.53.35:033][996]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-21.53.37:687][308]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-21.53.37:688][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-21.53.37:725][308]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.19-21.53.37:725][308]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-21.53.37:763][308]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-21.53.37:792][310]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2018.07.19-21.53.54:558][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-21.53.54:641][288]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.19-21.53.54:651][288]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-21.53.54:651][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.19-21.53.54:651][288]PIE: New page: PIE session: FirstPersonExampleMap (2018-07-19 13:53:54)
+[2018.07.19-21.53.54:651][288]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.19-21.53.54:663][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011892s)
+[2018.07.19-21.53.54:663][288]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.19-21.53.54:664][288]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2018.07.19-21.53.54:664][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012796s)
+[2018.07.19-21.53.54:716][288]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adaptor)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.19-21.53.54:730][288]LogInit: FAudioDevice initialized.
+[2018.07.19-21.53.54:763][288]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.19-21.53.54:765][288]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.07.19-17.53.54
+[2018.07.19-21.53.54:765][288]LogWorld: Bringing up level for play took: 0.002244
+[2018.07.19-21.53.54:779][288]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,206
+[2018.07.19-21.53.54:779][288]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-21.53.56:208][449]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-21.53.56:208][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-21.53.56:241][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.19-21.53.56:241][449]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-21.53.56:275][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-21.53.56:306][452]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.07.19-21.54.08:783][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-21.54.08:883][952]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.19-21.54.08:894][952]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-21.54.08:894][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.19-21.54.08:894][952]PIE: New page: PIE session: FirstPersonExampleMap (2018-07-19 13:54:08)
+[2018.07.19-21.54.08:894][952]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.19-21.54.08:906][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011599s)
+[2018.07.19-21.54.08:907][952]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.19-21.54.08:907][952]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.07.19-21.54.08:907][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012518s)
+[2018.07.19-21.54.08:958][952]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adaptor)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.19-21.54.08:969][952]LogInit: FAudioDevice initialized.
+[2018.07.19-21.54.09:001][952]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.19-21.54.09:004][952]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.07.19-17.54.09
+[2018.07.19-21.54.09:004][952]LogWorld: Bringing up level for play took: 0.002084
+[2018.07.19-21.54.09:016][952]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,444
+[2018.07.19-21.54.09:017][952]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-21.54.10:893][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-21.54.10:893][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-21.54.10:929][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.19-21.54.10:929][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-21.54.10:963][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-21.54.10:995][177]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.07.19-21.54.38:647][671]LogSavePackage: Moving '../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Saved/FirstPersonExampleMap_Auto17107E11A4FCFDB55E5D5A9B8F2737C99.tmp' to '../../../../../../Users/gsq_scadieux/Documents/UnrealTraining/Training/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2018.07.19-21.54.38:656][671]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.255
+[2018.07.19-21.54.38:656][671]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.255
+[2018.07.19-21.54.57:318][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-21.54.57:409][380]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.19-21.54.57:418][380]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-21.54.57:418][380]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.19-21.54.57:418][380]PIE: New page: PIE session: FirstPersonExampleMap (2018-07-19 13:54:57)
+[2018.07.19-21.54.57:418][380]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.19-21.54.57:431][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012894s)
+[2018.07.19-21.54.57:432][380]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.19-21.54.57:432][380]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2018.07.19-21.54.57:432][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.013819s)
+[2018.07.19-21.54.57:486][380]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adaptor)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.19-21.54.57:500][380]LogInit: FAudioDevice initialized.
+[2018.07.19-21.54.57:554][380]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.19-21.54.57:557][380]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.07.19-17.54.57
+[2018.07.19-21.54.57:557][380]LogWorld: Bringing up level for play took: 0.002107
+[2018.07.19-21.54.57:569][380]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,998
+[2018.07.19-21.54.57:570][380]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-21.54.59:211][574]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-21.54.59:211][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-21.54.59:245][574]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.19-21.54.59:246][574]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-21.54.59:287][574]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-21.54.59:311][576]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.07.19-21.55.00:485][715]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.19-21.55.16:491][563]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.19-21.55.39:050][ 90]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.19-21.55.40:574][237]Cmd: TRANSACTION UNDO
+[2018.07.19-21.55.40:574][237]LogEditorTransaction: Undo Clicking on Actors
+[2018.07.19-21.55.41:048][247]Cmd: TRANSACTION UNDO
+[2018.07.19-21.55.41:048][247]LogEditorTransaction: Undo Move Actors
+[2018.07.19-21.56.22:233][839]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-21.56.50:585][122]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-21.57.04:284][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2018.07.19-21.57.18:073][280]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.19-21.57.30:173][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2018.07.19-21.57.39:867][780]LogSlate: Took 0.001039 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.19-21.57.45:212][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-21.58.12:543][660]LogSlate: Window 'Select Path' being destroyed
+[2018.07.19-21.58.12:787][660]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Console.Console
+[2018.07.19-21.58.13:345][660]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2018.07.19-21.58.47:363][594]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-21.59.14:809][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-21.59.26:397][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-21.59.30:977][454]LogSlate: Window 'Console*' being destroyed
+[2018.07.19-21.59.31:043][454]LogSlate: Window 'Console*' being destroyed
+[2018.07.19-21.59.35:585][774]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.19-21.59.42:808][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-21.59.50:455][219]LogSlate: Window 'Select Path' being destroyed
+[2018.07.19-21.59.50:659][219]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Console.Console
+[2018.07.19-21.59.57:396][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.00.14:712][564]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-22.01.10:455][562]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.01.49:852][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.02.09:534][770]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-22.02.23:467][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.02.30:581][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.02.52:989][681]LogEditorTransaction: Undo Modify Component(s)
+[2018.07.19-22.03.31:454][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.04.02:635][819]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.04.19:296][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.05.03:318][101]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-22.05.26:052][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.05.26:110][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.19-22.05.26:137][ 78]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-22.05.26:137][ 78]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.19-22.05.26:139][ 78]LogPlayLevel: [PlayLevel] Compiling Console before play...
+[2018.07.19-22.05.26:432][ 78]LogPlayLevel: PlayLevel: Blueprint regeneration took 295 ms (1 blueprints)
+[2018.07.19-22.05.26:433][ 78]PIE: New page: PIE session: FirstPersonExampleMap (2018-07-19 14:05:26)
+[2018.07.19-22.05.26:433][ 78]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.19-22.05.26:444][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011469s)
+[2018.07.19-22.05.26:445][ 78]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.19-22.05.26:445][ 78]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2018.07.19-22.05.26:445][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012425s)
+[2018.07.19-22.05.26:496][ 78]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adaptor)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.19-22.05.26:507][ 78]LogInit: FAudioDevice initialized.
+[2018.07.19-22.05.26:538][ 78]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.19-22.05.26:541][ 78]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.07.19-18.05.26
+[2018.07.19-22.05.26:541][ 78]LogWorld: Bringing up level for play took: 0.002484
+[2018.07.19-22.05.26:554][ 78]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,01
+[2018.07.19-22.05.26:555][ 78]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-22.05.52:155][947]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-22.05.52:156][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-22.05.52:189][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.19-22.05.52:190][947]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-22.05.52:225][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-22.05.52:263][948]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.07.19-22.05.58:163][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.05.58:665][613]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.19-22.05.58:679][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-22.05.58:679][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.19-22.05.58:679][613]PIE: New page: PIE session: FirstPersonExampleMap (2018-07-19 14:05:58)
+[2018.07.19-22.05.58:679][613]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.19-22.05.58:693][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013551s)
+[2018.07.19-22.05.58:694][613]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.19-22.05.58:694][613]LogPlayLevel: PIE: World Init took: (0.000780s)
+[2018.07.19-22.05.58:694][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.014484s)
+[2018.07.19-22.05.58:750][613]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adaptor)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.19-22.05.58:763][613]LogInit: FAudioDevice initialized.
+[2018.07.19-22.05.58:800][613]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.19-22.05.58:803][613]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.07.19-18.05.58
+[2018.07.19-22.05.58:803][613]LogWorld: Bringing up level for play took: 0.002077
+[2018.07.19-22.05.58:815][613]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,252
+[2018.07.19-22.05.58:816][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-22.06.34:966][743]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-22.06.34:966][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-22.06.35:005][743]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.19-22.06.35:006][743]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-22.06.35:042][743]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-22.06.35:113][744]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.07.19-22.06.36:319][871]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.19-22.07.12:023][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.07.21:860][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.07.35:406][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.07.46:849][174]Cmd: TRANSACTION UNDO
+[2018.07.19-22.07.46:849][174]LogEditorTransaction: Undo Move Actors
+[2018.07.19-22.07.46:856][174]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.EditorCube11_5.StaticMeshComponent0) Component already registered.
+[2018.07.19-22.07.46:857][174]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.EditorCube15_9.StaticMeshComponent0) Component already registered.
+[2018.07.19-22.07.49:078][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.08.08:677][915]Cmd: TRANSACTION UNDO
+[2018.07.19-22.08.08:677][915]LogEditorTransaction: Undo Move Actors
+[2018.07.19-22.08.08:688][915]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.EditorCube8_2.StaticMeshComponent0) Component already registered.
+[2018.07.19-22.08.08:689][915]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.Floor2.StaticMeshComponent0) Component already registered.
+[2018.07.19-22.08.08:690][915]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.EditorCube18_12.StaticMeshComponent0) Component already registered.
+[2018.07.19-22.08.08:690][915]LogActorComponent: ~FComponentReregisterContext: (/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.EditorCube21_15.StaticMeshComponent0) Component already registered.
+[2018.07.19-22.08.12:878][217]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.08.20:563][903]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.19-22.08.26:924][428]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.19-22.08.36:575][284]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.19-22.08.47:887][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.08.47:967][267]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.19-22.08.47:976][267]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-22.08.47:976][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.19-22.08.47:976][267]PIE: New page: PIE session: FirstPersonExampleMap (2018-07-19 14:08:47)
+[2018.07.19-22.08.47:977][267]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.19-22.08.47:988][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011175s)
+[2018.07.19-22.08.47:988][267]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.19-22.08.47:989][267]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2018.07.19-22.08.47:989][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.012040s)
+[2018.07.19-22.08.48:047][267]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adaptor)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.19-22.08.48:059][267]LogInit: FAudioDevice initialized.
+[2018.07.19-22.08.48:087][267]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.19-22.08.48:090][267]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.07.19-18.08.48
+[2018.07.19-22.08.48:090][267]LogWorld: Bringing up level for play took: 0.002181
+[2018.07.19-22.08.48:102][267]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0,459
+[2018.07.19-22.08.48:103][267]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-22.08.55:709][111]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-22.08.55:710][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-22.08.55:749][111]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.19-22.08.55:750][111]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-22.08.55:780][111]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-22.08.55:854][112]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.07.19-22.08.58:941][444]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.19-22.09.02:676][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.09.02:735][769]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.19-22.09.02:744][769]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-22.09.02:744][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.19-22.09.02:744][769]PIE: New page: PIE session: FirstPersonExampleMap (2018-07-19 14:09:02)
+[2018.07.19-22.09.02:744][769]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.07.19-22.09.02:755][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010622s)
+[2018.07.19-22.09.02:755][769]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.07.19-22.09.02:755][769]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2018.07.19-22.09.02:755][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.011489s)
+[2018.07.19-22.09.02:806][769]LogInit: XAudio2 using 'Headset Earphone (Corsair VOID Surround USB Sound Adaptor)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.07.19-22.09.02:818][769]LogInit: FAudioDevice initialized.
+[2018.07.19-22.09.02:848][769]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.07.19-22.09.02:851][769]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2018.07.19-18.09.02
+[2018.07.19-22.09.02:851][769]LogWorld: Bringing up level for play took: 0.002219
+[2018.07.19-22.09.02:864][769]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0,303
+[2018.07.19-22.09.02:864][769]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-22.09.16:653][297]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-22.09.16:653][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-22.09.16:689][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.19-22.09.16:689][297]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.07.19-22.09.16:724][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.19-22.09.16:796][298]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2018.07.19-22.09.17:603][384]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.07.19-22.09.28:291][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.09.28:407][238]LogRenderer: Reallocating scene render targets to support 1760x1260 Format 10 NumSamples 1 (Frame:41686).
+[2018.07.19-22.10.14:135][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.11.24:531][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.12.45:885][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.13.03:880][443]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-22.13.08:933][843]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-22.13.13:480][200]LogEditorTransaction: Undo Modify Component(s)
+[2018.07.19-22.13.14:562][267]LogEditorTransaction: Undo Duplicate Components
+[2018.07.19-22.13.16:081][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.13.31:027][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-22.14.07:651][424]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-22.14.13:200][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.14.15:458][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.14.25:341][758]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.15.04:270][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-22.15.08:322][819]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.19-22.15.31:489][324]LogEditorTransaction: Undo Modify Component(s)
+[2018.07.19-22.15.34:822][553]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.15.37:509][755]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.19-22.15.40:422][996]LogEditorTransaction: Undo Set Location
+[2018.07.19-22.15.40:522][996]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.090 s
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: === Handled ensure: ===
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: 
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: 
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: Stack: 
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb99e67136 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb99ba0c82 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb99bbb346 UE4Editor-Core.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb97a2ee3f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb979d4464 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb909e41a9 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb909e4ee5 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb90991a51 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb9969d0d2 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb99663f79 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb99706a2e UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb995193b0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb994b1444 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb9712fe34 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb96da8b90 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb96d3f869 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb97134653 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb9711b370 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.19-22.15.40:522][996]LogOutputDevice: Error: [Callstack] 0x00007ffb970cb344 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb97120d2a UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb96cdb41b UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb96d6825e UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb96db5bbd UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb979d4d16 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb97a0015b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb979e6485 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb97a52d25 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb97a99acd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb97a2c77f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb96d405b8 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb994b24df UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb994f437e UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb98283c5e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb98271bf8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb994770ac UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb994f606c UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffb994e9846 UE4Editor-Slate.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffbc29ace45 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffbc29a0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffbc29af4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffbc299c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffbf453b85d USER32.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffbf453b1ef USER32.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffbc29b0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ff6f9e054e5 UE4Editor.exe!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ff6f9e15b3c UE4Editor.exe!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ff6f9e15bba UE4Editor.exe!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ff6f9e23dac UE4Editor.exe!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ff6f9e25aaa UE4Editor.exe!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffbf4821fe4 KERNEL32.DLL!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: [Callstack] 0x00007ffbf4dacb31 ntdll.dll!UnknownFunction []
+[2018.07.19-22.15.40:523][996]LogOutputDevice: Error: 
+[2018.07.19-22.15.40:529][996]LogStats:                SubmitErrorReport -  0.000 s
